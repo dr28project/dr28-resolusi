@@ -1,3 +1,3 @@
 Rencana Web dr28 :
 - Membuat portfolio
-- Membuat web application perpustakaan
+- Membuat web application perpustakaan dengan menggunakan java
