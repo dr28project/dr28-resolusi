@@ -4,3 +4,4 @@ dr28 RESOLUSI
 - Belajar Github
 - Membuat portfolio
 - Sering2 latihan
+- Memperdalam javascript
