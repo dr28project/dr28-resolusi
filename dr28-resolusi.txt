@@ -1,7 +1,8 @@
-dr28 RESOLUSI
-- Konsisten Belajar Java
+dr28 RESOLUSI 2024
 - Konsisten Belajar Web Design
 - Belajar Github
 - Membuat portfolio
 - Sering2 latihan
 - Memperdalam javascript
+- Memperdalam PHP
+- Belajar Laravel
