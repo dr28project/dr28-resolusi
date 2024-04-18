@@ -6,3 +6,5 @@ dr28 RESOLUSI 2024
 - Memperdalam javascript
 - Memperdalam PHP
 - Belajar Laravel
+
+- Tetap Semangat
